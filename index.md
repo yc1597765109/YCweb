@@ -503,10 +503,7 @@ var _lcid = 2052,
                 </div>
                 
                 
-                    <div id="webFooter" class="webFooter">
-                        <div id='footer' class='footer' ><div class='footerTop'><div class='topLeft'></div><div class='topCenter'></div><div class='topRight'></div></div><div class='footerMiddle'><div class='middleLeft'></div><div class='middleCenter' align='center'><div class='footerContent'><div class='footerSupport' id='footerSupport' ><span class='footerMobile J_supportItem'><a hidefocus='true' href='//mj23669316.m.icoc.cc' target='_blank'>手机版</a></span>       <span class='footerSep J_footerSep'>|</span><span class='footerFaisco J_supportItem'>本站使用<a class='J_supportLink' hidefocus='true' href='http://jz.fkw.com/proFree.html?_ta=2524' onclick='Site.logDog(100065, 0);' target='_blank' ><svg id='faisco-icons-logo' class='toolbar_site_logo' style='width: 22px; height: 16px; padding-left:2px;position:relative; top: 3px;'><use xlink:href='#icon_site_logo_no_color'></use></svg>凡科建站</a><span style='padding-left:8px;' class='J_buildText'>搭建</span></span>       <span class='footerSep J_footerSep'>|</span>           <span id='footerLogin' class='footerLogin J_supportItem'><a name='popupLogin' hidefocus='true' href='https://i.fkw.com?cacct=mj23669316&_fromsite=true' onclick='Fai.closeTip("#footerLogin");Site.logDog(200584,0);'>管理登录</a></span>                    <span class='bgplayerButton' id='bgplayerButton' style='display:none;'></span></div></div></div><div class='middleRight'></div></div><div class='footerBottom'><div class='bottomLeft'></div><div class='bottomCenter'></div><div class='bottomRight'></div></div></div>
-
-                    </div>
+                    
                 
         
              </div>
@@ -648,8 +645,7 @@ var _Global = {},
     
 
     
-    var _homeHost = "www.fkw.com";
-
+   
 var _templateDefLayout = {BANNER_NAV:0,NAV_FLOAT:1,LEFT_NAV_BANNER_RIGHT_HIDE:3,LEFT_NAV_CENTER_BANNER_RIGHT_HIDE:4,LEFT_BANNER_NAV_RIGHT_HIDE:5,LEFT_NAV_EXPEND_CENTER_BANNER:6,CENTER_TOP_BANNER_RIGHT_HIDE:7,LEFT_HIDE_CENTER_TOP_BANNER:8,NAV_FLOAT_ON_BANNER:9,NAV_BANNER:10}; 
 Fai.top.isIncToVue = false;
 
